@@ -2,8 +2,9 @@
   margin:10px;
 }
 p{
-  font-size: 35px;
+  font-size: 30px;
   text-align: justify;
+  font-weight: light;
 }
 img{
   width:600px;
