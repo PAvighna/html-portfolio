@@ -19,8 +19,10 @@ img{
 }
 a{
   font-size:25px;
-  color:green;
+  font-weight:bold;
+  color:white;
   text-decoration: none;
+  background-color:green;
   width: 100px;
   height:30px;
 }
