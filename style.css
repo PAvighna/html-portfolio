@@ -3,9 +3,13 @@
 }
 h2{
   font-size:35px;
+  color:#faf8f1;
+  background-color:#c58940;
 }
 h1{
   font-size:40px;
+  color: whitesmoke;
+  background-color:darkseagreen;
 }
 p{
   font-size: 30px;
