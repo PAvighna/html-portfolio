@@ -17,9 +17,8 @@ p{
   font-weight: light;
 }
 img{
-  border: 1px solid #ddd;
+  border: 2px solid #ddd;
   border-radius: 50%;
-  padding: 5px;
   margin:auto;
   display: block;
   height:50vh;
