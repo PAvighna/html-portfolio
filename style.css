@@ -54,3 +54,10 @@ ul li a {
 ul li a:hover {
   background-color: #111111;
 }
+footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #333;
+  color: white;
+  width: 100%;
+}
