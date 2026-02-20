@@ -16,13 +16,6 @@ p{
   text-align: justify;
   font-weight: light;
 }
-img{
-  border: 2px solid #90EE90;
-  border-radius: 40%;
-  display: block;
-  height:30vh;
-  margin:auto;
-}
 a{
   font-size:25px;
   font-weight:bold;
@@ -54,9 +47,7 @@ ul li a {
 ul li a:hover {
   background-color: #111111;
 }
-main {
-  flex-grow: 1; /* Allow main content to grow and fill available space */
-}
+
 footer {
   text-align: center;
   padding: 20px 0;
